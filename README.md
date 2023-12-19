@@ -1,16 +1,25 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div> 
 
-<!--
-**elhoussam/elhoussam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I am [ELHoussam]( https://www.linkedin.com/in/elhoussam/ ) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+ 
+   
+   Motivated & detail-oriented Dev with 3+ years using Java, C#, JS, eager to learn Copilot & ChatGPT. Experienced in building software modules, testing, debugging, DB design & refactoring. Master's in SE, seeks new dev opportunities to grow & contribute.
+
+ 
+</div>
+
+<div><p>My profile overview :</p></div>
+
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=elhoussam&show_icons=true)
+
+
+<br />
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=elhoussam)
